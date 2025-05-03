@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchoolApp.Entidades.Cursos">
+    <Position X="0.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAEABACAQAAACAEAAAAAAABAgAhCAAACAAAAAAgAAA=</HashCode>
+      <FileName>Entidades\Cursos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolApp.Entidades.CursosPresenciales">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAAAAAACAAAAgAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Entidades\CursosPresenciales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolApp.Entidades.CursosVirtuales">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAACAgA=</HashCode>
+      <FileName>Entidades\CursosVirtuales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolApp.Entidades.Docente">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolApp.Entidades.Empleado">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIQAAAAIIAAAAAAAACgAEAAgAAABAAgAQAAAgAA=</HashCode>
+      <FileName>Entidades\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolApp.Entidades.EmpleadoAdministrativo">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\EmpleadoAdministrativo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolApp.Entidades.Estudiantes">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAAAAAAAAAQAAAAAQAEAAAAAAAACgAAAAAEAI=</HashCode>
+      <FileName>Entidades\Estudiantes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolApp.Entidades.Persona">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAIEACAAgCIAAIAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Entidades\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
