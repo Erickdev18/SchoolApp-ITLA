@@ -18,7 +18,7 @@ namespace SchoolApp.Entidades
         public string? Nacionalidad { get; set; }
         public string? Cedula { get; set; }
 
-        public abstract string ObtenerInformacion();
+        public virtual string ObtenerInformacion();
 
     }
 }
